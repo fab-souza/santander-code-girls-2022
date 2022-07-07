@@ -6,3 +6,13 @@
 ![Badge last commit](https://img.shields.io/github/last-commit/fab-souza/santander-code-girls-2022)
 
 Repositório dos projetos desenvolvidos durante o bootcamp
+
+
+
+
+
+
+
+
+
+#ÉPraTodasElas
