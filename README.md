@@ -1,5 +1,7 @@
 # Santander Code Girls 2022
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 ![Badge language](https://img.shields.io/github/languages/count/fab-souza/santander-code-girls-2022)
 ![Badge top language](https://img.shields.io/github/languages/top/fab-souza/santander-code-girls-2022)
 ![Badge release](https://img.shields.io/github/release-date/fab-souza/santander-code-girls-2022)
